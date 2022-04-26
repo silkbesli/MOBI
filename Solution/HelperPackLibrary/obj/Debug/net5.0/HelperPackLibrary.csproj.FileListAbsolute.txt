@@ -1,0 +1,11 @@
+C:\Users\ipek\source\repos\Mobi\HelperPackLibrary\bin\Debug\net5.0\HelperPackLibrary.deps.json
+C:\Users\ipek\source\repos\Mobi\HelperPackLibrary\bin\Debug\net5.0\HelperPackLibrary.dll
+C:\Users\ipek\source\repos\Mobi\HelperPackLibrary\bin\Debug\net5.0\ref\HelperPackLibrary.dll
+C:\Users\ipek\source\repos\Mobi\HelperPackLibrary\bin\Debug\net5.0\HelperPackLibrary.pdb
+C:\Users\ipek\source\repos\Mobi\HelperPackLibrary\obj\Debug\net5.0\HelperPackLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipek\source\repos\Mobi\HelperPackLibrary\obj\Debug\net5.0\HelperPackLibrary.AssemblyInfoInputs.cache
+C:\Users\ipek\source\repos\Mobi\HelperPackLibrary\obj\Debug\net5.0\HelperPackLibrary.AssemblyInfo.cs
+C:\Users\ipek\source\repos\Mobi\HelperPackLibrary\obj\Debug\net5.0\HelperPackLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ipek\source\repos\Mobi\HelperPackLibrary\obj\Debug\net5.0\HelperPackLibrary.dll
+C:\Users\ipek\source\repos\Mobi\HelperPackLibrary\obj\Debug\net5.0\ref\HelperPackLibrary.dll
+C:\Users\ipek\source\repos\Mobi\HelperPackLibrary\obj\Debug\net5.0\HelperPackLibrary.pdb
